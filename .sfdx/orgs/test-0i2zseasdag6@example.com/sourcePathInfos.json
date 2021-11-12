@@ -1,0 +1,146 @@
+{
+  "/home/gregory/rapi10-crm/force-app": {
+    "sourcePath": "/home/gregory/rapi10-crm/force-app",
+    "isDirectory": true,
+    "size": 4096,
+    "modifiedTime": 1636678626002,
+    "changeTime": 1636678689648,
+    "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+    "state": "n",
+    "isArtifactRoot": true,
+    "package": "force-app"
+  },
+  "/home/gregory/rapi10-crm/force-app/main": {
+    "sourcePath": "/home/gregory/rapi10-crm/force-app/main",
+    "isDirectory": true,
+    "size": 4096,
+    "modifiedTime": 1636678626002,
+    "changeTime": 1636678626002,
+    "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+    "state": "n",
+    "package": "force-app"
+  },
+  "/home/gregory/rapi10-crm/force-app/main/default": {
+    "sourcePath": "/home/gregory/rapi10-crm/force-app/main/default",
+    "isDirectory": true,
+    "size": 4096,
+    "modifiedTime": 1636681236114,
+    "changeTime": 1636681236114,
+    "contentHash": "a99b08e3d2d6efd88c4b56f5f01b594674d06db0",
+    "state": "u",
+    "package": "force-app"
+  },
+  "/home/gregory/rapi10-crm/force-app/main/default/aura": {
+    "sourcePath": "/home/gregory/rapi10-crm/force-app/main/default/aura",
+    "isDirectory": true,
+    "size": 4096,
+    "modifiedTime": 1636678626002,
+    "changeTime": 1636678626002,
+    "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "state": "n",
+    "package": "force-app"
+  },
+  "/home/gregory/rapi10-crm/force-app/main/default/lwc": {
+    "sourcePath": "/home/gregory/rapi10-crm/force-app/main/default/lwc",
+    "isDirectory": true,
+    "size": 4096,
+    "modifiedTime": 1636678773702,
+    "changeTime": 1636678773702,
+    "contentHash": "56f2d335ffa27c20b4ea310cf0214fa96f325894",
+    "state": "n",
+    "package": "force-app"
+  },
+  "/home/gregory/rapi10-crm": {
+    "sourcePath": "/home/gregory/rapi10-crm",
+    "isDirectory": true,
+    "size": 4096,
+    "modifiedTime": 1636678769014,
+    "changeTime": 1636678769014,
+    "contentHash": "a7d454fe909d506d8431a20d8d3eace6ce89fd91",
+    "state": "n",
+    "isWorkspace": true
+  },
+  "/home/gregory/rapi10-crm/force-app/main/default/objects/Account/fields": {
+    "sourcePath": "/home/gregory/rapi10-crm/force-app/main/default/objects/Account/fields",
+    "isDirectory": true,
+    "size": 4096,
+    "modifiedTime": 1636681236070,
+    "changeTime": 1636681236070,
+    "contentHash": "b720f419386ed4da954b353a13f21913dbde83de",
+    "state": "u",
+    "package": "force-app"
+  },
+  "/home/gregory/rapi10-crm/force-app/main/default/objects/Account": {
+    "sourcePath": "/home/gregory/rapi10-crm/force-app/main/default/objects/Account",
+    "isDirectory": true,
+    "size": 4096,
+    "modifiedTime": 1636681236066,
+    "changeTime": 1636681236066,
+    "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+    "state": "u",
+    "package": "force-app"
+  },
+  "/home/gregory/rapi10-crm/force-app/main/default/objects": {
+    "sourcePath": "/home/gregory/rapi10-crm/force-app/main/default/objects",
+    "isDirectory": true,
+    "size": 4096,
+    "modifiedTime": 1636681236066,
+    "changeTime": 1636681236066,
+    "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
+    "state": "u",
+    "package": "force-app"
+  },
+  "/home/gregory/rapi10-crm/force-app/main/default/layouts": {
+    "sourcePath": "/home/gregory/rapi10-crm/force-app/main/default/layouts",
+    "isDirectory": true,
+    "size": 4096,
+    "modifiedTime": 1636681236086,
+    "changeTime": 1636681236086,
+    "contentHash": "b2aa44986320a18245301bea220f7fe3f37f55d0",
+    "state": "u",
+    "package": "force-app"
+  },
+  "/home/gregory/rapi10-crm/force-app/main/default/profiles": {
+    "sourcePath": "/home/gregory/rapi10-crm/force-app/main/default/profiles",
+    "isDirectory": true,
+    "size": 4096,
+    "modifiedTime": 1636681236130,
+    "changeTime": 1636681236130,
+    "contentHash": "dd4bc5d00d5b87ac9dcfa94ec543d354d095c25c",
+    "state": "u",
+    "package": "force-app"
+  },
+  "/home/gregory/rapi10-crm/force-app/main/default/objects/Account/fields/city__c.field-meta.xml": {
+    "sourcePath": "/home/gregory/rapi10-crm/force-app/main/default/objects/Account/fields/city__c.field-meta.xml",
+    "size": 362,
+    "modifiedTime": 1636681236070,
+    "changeTime": 1636681236070,
+    "contentHash": "964e34191c39e3fc205e496d82165b643be98444",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "CustomField"
+  },
+  "/home/gregory/rapi10-crm/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml": {
+    "sourcePath": "/home/gregory/rapi10-crm/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
+    "size": 9578,
+    "modifiedTime": 1636681236086,
+    "changeTime": 1636681236086,
+    "contentHash": "accdb3404d3266c9d6863943de211290dfec026b",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "Layout"
+  },
+  "/home/gregory/rapi10-crm/force-app/main/default/profiles/Admin.profile-meta.xml": {
+    "sourcePath": "/home/gregory/rapi10-crm/force-app/main/default/profiles/Admin.profile-meta.xml",
+    "size": 21209,
+    "modifiedTime": 1636681236134,
+    "changeTime": 1636681236134,
+    "contentHash": "0c8dfda6d5ec84c9b4f2e531b33e048cd76c60b3",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "force-app",
+    "metadataType": "Profile"
+  }
+}
