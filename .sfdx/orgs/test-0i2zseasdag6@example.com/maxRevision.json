@@ -1,0 +1,23 @@
+{
+  "serverMaxRevisionCounter": 3,
+  "sourceMembers": {
+    "CustomField__Account.city__c": {
+      "serverRevisionCounter": 1,
+      "lastRetrievedFromServer": 1,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "Profile__Admin": {
+      "serverRevisionCounter": 3,
+      "lastRetrievedFromServer": 3,
+      "memberType": "Profile",
+      "isNameObsolete": false
+    },
+    "Layout__Account-Account Layout": {
+      "serverRevisionCounter": 2,
+      "lastRetrievedFromServer": 2,
+      "memberType": "Layout",
+      "isNameObsolete": false
+    }
+  }
+}
